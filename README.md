@@ -38,9 +38,9 @@ I welcome any feedback or suggestions for improving this project! Feel free to o
 
 ## About the Author 👨‍💻
 
-Hi there! I'm [Your Name], the creator of this Bugatti website project. I'm passionate about web development and creating visually stunning websites that captivate audiences.
+Hi there! I'm Hitesh Yadav, the creator of this Bugatti website project. I'm passionate about web development and creating visually stunning websites that captivate audiences.
 
-Connect with me on github to stay updated on my latest projects and adventures in coding!
+Connect with me on <a href="https://github.com/twlhitesh">Github (My Profile)</a> to stay updated on my latest projects and adventures in coding!
 
 ---
 
